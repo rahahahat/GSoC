@@ -3,5 +3,5 @@ This repository contains all documents related to my participation in Google Sum
 
 My code contributions and relevant project details can found on the [design doc](https://docs.google.com/document/d/1p3ucb6cjuIa72aMQLnuJHvniX1j4lNewvy28C39oAdo/edit?usp=sharing)
 
-The feature is showcased in the **Chrome 95 - What's New in DevTools** [video](https://www.youtube.com/watch?v=T_Ppg7ghrWM&t=134s&ab_channel=GoogleChromeDevelopers) on the Google Chrome Developers Youtube Channel. 
+The feature is showcased in the **Chrome 95 - What's New in DevTools** [video](https://youtu.be/T_Ppg7ghrWM?t=57) on the Google Chrome Developers Youtube Channel. 
 
